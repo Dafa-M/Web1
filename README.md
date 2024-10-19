@@ -1,4 +1,11 @@
-# Praktikum 3: Menentukan Bilangan Terbesar
+# LAPORAN PRAKTIKUM
+
+## Membuat Repository
+
+### Step 1 :
+Download buatlah akun pada Github jika belum memilikinya,
+Jika sudah jadi maka tampilannya akan seperti ini:
+![Gambar1](ssgit.png)
 
 ## Deskripsi Program
 Program ini menerima tiga input bilangan dari pengguna dan menentukan bilangan terbesar dari ketiga bilangan tersebut. Program ini menggunakan kondisi if-elif untuk membandingkan bilangan-bilangan yang dimasukkan oleh pengguna.
