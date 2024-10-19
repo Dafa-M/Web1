@@ -39,10 +39,12 @@ Lalu buka file README.md dengan VS Code maka tampilannya seperti ini :
 ![Gambar1](vsc.png)
 Lalu buat file baru :
 ![Gambar1](newfile.png)
+
 Ganti menjadi python :
 ![Gambar1](py.png)
 Dan save pada file web1, ganti nama sesuai kemauan :
 ![gambar1](sv.png)
+Kembali ke Git Tools, ketik 'git add web1/' untuk menambahkan, lalu commit dengan mengetik 'git commit -m (komentar bebas)', jika sudah ketik lagi 'git push -u origin main' maka konten yang kita tambahkan pada file web1 sudah di update di github
 
 ## Deskripsi Program
 Program ini menerima tiga input bilangan dari pengguna dan menentukan bilangan terbesar dari ketiga bilangan tersebut. Program ini menggunakan kondisi if-elif untuk membandingkan bilangan-bilangan yang dimasukkan oleh pengguna.
