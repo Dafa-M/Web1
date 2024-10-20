@@ -89,18 +89,22 @@ maka akan ditampilan output terbesar dari 3 bilangan yang sudah di input : Bilan
 
 ### Step 1 :
 Buat start untuk diawalan proses dengan bentuk terminator :
+
 ![Gambar1](screenshoot/start.png)
 
 ### Step 2 :
 Ke langkah selanjutnya masukan Input Bilangan 1, 2, 3 dengan printah 'Read' :
+
 ![Gambar1](screenshoot/read.png)
 
 ### Step 3 :
 Buat lah decision untuk keputusan, jika Bilangan1 >= Bilangan2 YA/TIDAK? :
+
 ![Gambar1](screenshoot/if.png)
 
 ### Step 4 :
 Jika YA maka akan lanjut, jika Bilangan1 >= Bilangan3 YA/TIDAK?. Jika TIDAK maka akan lanjut, jika Bilangan2 >= Bilangan3 YA/TIDAK? :
+
 ![Gambar1](screenshoot/yn.png)
 
 ### Step 5 :
@@ -111,10 +115,12 @@ Jika TIDAK BIlangan1 >= Bilangan3 maka Bilangan3 terbesar
 
 Jika YA Bilangan2 >= Bilangan3 maka Bilangan2 terbesar
 Jika TIDAK Bilangan2 >= Bilangan3 maka Bilangan3 terbesar
+
 ![Gambar1](screenshoot/output.png)
 
 ### Step 6 :
 Buat titik berhenti pada flowchart dengan bentuk Terminator :
+
 ![Gambar1](screenshoot/end.png)
 
 ## KESIMPULAN
