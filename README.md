@@ -10,40 +10,51 @@ Jika sudah punya/selesai membuat maka tampilannya akan seperti ini pada menu PRO
 ### Step 2 : Buat file Repository
 Setelah itu kembali ke HOME dan tekan NEW :
 ![Gambar1](new.png)
+
 setelah ditekan maka tampilannya akan seperti di bawah, setting Public pada 2 pilihan pada gambar :
 ![Gambar](public.png)
+
 Tekan Create Repository :
 ![Gambar1](creat.png)
 
 ### Step 3 : Penginstalan Git Tools
 Download terlebih dahulu Git Tools dengan mengetik git=scm dipencarian google, lalu tekan Download for Windows :
 ![Gambar1](gitscm.png)
+
 Setelah itu tekan "Click here to download" :
 ![Gambar1](download.png)
+
 Setelah didownload, kita masuk ke proses Penginstalan tekan apk git tools yang sudah didownload lalu klik next terus hingga tampilannya seperti ini,
 lalu tekan instal :
 ![Gambar1](instal.png)
+
 Tunggu hingga proses Penginstalan selesai hingga tampilannya seperti di bawah lalu tekan finish :
 ![Gambar1](finish.png)
 
 ### Step 4 : Pengoperasian Git Tools
 Setelah clear Penginstalan maka tampilannya akan seperti digambar :
 ![Gambar1](pwd.png)
+
 Kode awal yang di buat berupa 'pwd' untuk memeriksa data file
 Sebelum masuk langkah selanjutnya copy code github kamu dikolom CODE :
 ![Gambar1](code.png)
+
 Lalu kembali ke Git Tools dan lanjutkan dengan 'git clone pastelinkgithub'
 setelahnya cari file README.md pada file web1 :
 ![Gambar1](readme.png)
+
 Lalu buka file README.md dengan VS Code maka tampilannya seperti ini :
 ![Gambar1](vsc.png)
+
 Lalu buat file baru :
 ![Gambar1](newfile.png)
 
 Ganti menjadi python :
 ![Gambar1](py.png)
+
 Dan save pada file web1, ganti nama sesuai kemauan :
 ![gambar1](sv.png)
+
 Kembali ke Git Tools, ketik 'git add web1/' untuk menambahkan, lalu commit dengan mengetik 'git commit -m (komentar bebas)', jika sudah ketik lagi 'git push -u origin main' maka konten yang kita tambahkan pada file web1 sudah di update di github
 
 ## Deskripsi Program
