@@ -1,6 +1,6 @@
 # LAPORAN PRAKTIKUM
 
-## Membuat Repository
+## MEMBUAT REPOSITORY
 
 ### Step 1 : Pembuatan Akun Github
 Buatlah akun pada github.com jika belum memilikinya,
@@ -55,7 +55,32 @@ Ganti menjadi python :
 Dan save pada file web1, ganti nama sesuai kemauan :
 ![gambar1](sv.png)
 
-Kembali ke Git Tools, ketik 'git add web1/' untuk menambahkan, lalu commit dengan mengetik 'git commit -m (komentar bebas)', jika sudah ketik lagi 'git push -u origin main' maka konten yang kita tambahkan pada file web1 sudah di update di github
+Kembali ke Git Tools, ketik 'git add web1/' untuk menambahkan, lalu commit dengan mengetik 'git commit -m (komentar bebas)', jika sudah ketik lagi 'git push -u origin main' maka konten yang kita tambahkan pada file web1 sudah terupdate digithub
+
+## MEMBUAT CODE PROGRAM FLOWCHART DENGAN PYTHON
+
+### Step 1 :
+Pada langkah pembuatan repository kita sudah membuat file baru berupa python, sekarang kita akan coba membuat code program flowchart menggunakan python. Buat code program inputkan bilangan dengan menggunakan integer untuk memasukan bilangan bulat :
+![Gambar1](bilangan.png)
+
+Dilanjutkan dengan memasukan if, elif dan else untuk membandingkan dari 3 bilangan yang sudah di inputkan. Penjelasannya :
+
+Jika Bilangan1 lebih besar atau sama dengan >= Bilangan2  dan Bilangan1 lebih besar atau sama dengan >= Bilangan3 maka yang terbesar Bilangan1
+
+Kemungkinan lain Bilangan2 lebih besar atau sama dengan >= Bilangan1  dan Bilangan2 lebih besar atau sama dengan >= Bilangan3 maka yang terbesar Bilangan2
+
+Selain dari itu maka yang terbesar Bilangan3
+![Gambar1](else.png)
+
+Setelah code proses sudah selesai maka masukan output untuk di tampilkan, printah 'print' digunakan untuk output :
+![Gambar1](print.png)
+
+Selanjutnya kita coba run code program dan inputkan bilangan :
+Bilangan1 = 15
+Bilangan2 = 3
+Bilangan3 = 11
+maka akan ditampilan output terbesar dari 3 bilangan yang sudah di input : Bilangan1 = 15
+![Gambar1](hasil.png)
 
 ## Deskripsi Program
 Program ini menerima tiga input bilangan dari pengguna dan menentukan bilangan terbesar dari ketiga bilangan tersebut. Program ini menggunakan kondisi if-elif untuk membandingkan bilangan-bilangan yang dimasukkan oleh pengguna.
