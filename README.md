@@ -63,6 +63,7 @@ Kembali ke Git Tools, ketik 'git add web1/' untuk menambahkan, lalu commit denga
 Pada langkah pembuatan repository kita sudah membuat file baru berupa python, sekarang kita akan coba membuat code program flowchart menggunakan python. Buat code program inputkan bilangan dengan menggunakan integer untuk memasukan bilangan bulat :
 ![Gambar1](bilangan.png)
 
+### Step 2 :
 Dilanjutkan dengan memasukan if, elif dan else untuk membandingkan dari 3 bilangan yang sudah di inputkan. Penjelasannya :
 
 Jika Bilangan1 lebih besar atau sama dengan >= Bilangan2  dan Bilangan1 lebih besar atau sama dengan >= Bilangan3 maka yang terbesar Bilangan1
@@ -72,26 +73,51 @@ Kemungkinan lain Bilangan2 lebih besar atau sama dengan >= Bilangan1  dan Bilang
 Selain dari itu maka yang terbesar Bilangan3
 ![Gambar1](else.png)
 
+### Step 3 :
 Setelah code proses sudah selesai maka masukan output untuk di tampilkan, printah 'print' digunakan untuk output :
 ![Gambar1](print.png)
 
-Selanjutnya kita coba run code program dan inputkan bilangan :
+### Step 4 :
+Selanjutnya kita run code program dan inputkan bilangan :
 Bilangan1 = 15
 Bilangan2 = 3
 Bilangan3 = 11
 maka akan ditampilan output terbesar dari 3 bilangan yang sudah di input : Bilangan1 = 15
 ![Gambar1](hasil.png)
 
-## Deskripsi Program
-Program ini menerima tiga input bilangan dari pengguna dan menentukan bilangan terbesar dari ketiga bilangan tersebut. Program ini menggunakan kondisi if-elif untuk membandingkan bilangan-bilangan yang dimasukkan oleh pengguna.
+## MEMBUAT FLOWCHART MENENTUKAN TERBESAR DARI 3 BILANGAN
 
-### Algoritma:
-1.  Program meminta pengguna memasukkan tiga bilangan.
-2. Program kemudian membandingkan ketiga bilangan tersebut menggunakan if-elif.
-3. Bilangan yang paling besar akan ditampilkan sebagai hasil.
+### Step 1 :
+Buat start untuk diawalan proses dengan bentuk terminator :
+![Gambar1](start.png)
 
-## Flowchart Program
-(sertakan gambar flowchart di sini)
+### Step 2 :
+Ke langkah selanjutnya masukan Input Bilangan 1, 2, 3 dengan printah 'Read' :
+![Gambar1](read.png)
 
-## Hasil Eksekusi Program
-(sertakan screenshot hasil eksekusi program di sini)
+### Step 3 :
+Buat lah decision untuk keputusan, jika Bilangan1 >= Bilangan2 YA/TIDAK? :
+![Gambar1](if.png)
+
+### Step 4 :
+Jika YA maka akan lanjut, jika Bilangan1 >= Bilangan3 YA/TIDAK?. Jika TIDAK maka akan lanjut, jika Bilangan2 >= Bilangan3 YA/TIDAK? :
+![Gambar1](yn.png)
+
+### Step 5 :
+Masukan Output dengan printah 'Write' :
+
+Jika YA Bilangan1 >= Bilangan3 maka Bilangan1 terbesar
+Jika TIDAK BIlangan1 >= Bilangan3 maka Bilangan3 terbesar
+
+Jika YA Bilangan2 >= Bilangan3 maka Bilangan2 terbesar
+Jika TIDAK Bilangan2 >= Bilangan3 maka Bilangan3 terbesar
+![Gambar1](output.png)
+
+### Step 6 :
+Buat titik berhenti pada flowchart dengan bentuk Terminator :
+![Gambar1](end.png) 
+
+## KESIMPULAN
+Penggunaan Github dan Git Tools untuk Programmer sangat membantu sekali dan mudah dimengerti, harapannya dapat mempermudah segala project ataupun tugas yang diberikan. 
+
+Penentuan Bilangan terbesar dari 3 Bilangan yang diinputkan kita mengetahui untuk mendapatkan hasilnya terdapat dua cara yang memudahkan kita, yaitu dengan code program Python memasukan input bilangan bulat atau pun decimal mampu mebantu kita mendapatkan jawaban saat di running, lalu cara lainnya adalah dengan Flowchart ini lebih kearah proses atau alur kita mendapatkan sebuah hasil dari Bilangan terbesar.
