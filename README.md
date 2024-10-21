@@ -116,12 +116,12 @@ Jika TIDAK BIlangan1 >= Bilangan3 maka Bilangan3 terbesar
 Jika YA Bilangan2 >= Bilangan3 maka Bilangan2 terbesar
 Jika TIDAK Bilangan2 >= Bilangan3 maka Bilangan3 terbesar
 
-![Gambar1](screenshoot/output.png)
+![Gambar1](screenshoot/output2.png)
 
 ### Step 6 :
 Buat titik berhenti pada flowchart dengan bentuk Terminator :
 
-![Gambar1](screenshoot/end.png)
+![Gambar1](screenshoot/end2.png)
 
 ## KESIMPULAN
 Penggunaan Github dan Git Tools untuk Programmer sangat membantu sekali dan mudah dimengerti, harapannya dapat mempermudah segala project ataupun tugas yang diberikan. 
